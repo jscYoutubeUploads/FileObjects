@@ -1,0 +1,8 @@
+This is the delta file.
+Could be the last file among the three.
+I am just trying to fill in here some Info.
+So I will be able to practice everything,
+related to python file objects.
+
+Thanks in advance,
+Jim
