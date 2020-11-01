@@ -7,4 +7,3 @@ Here are some tips:
 2) Be more careful
 3) Remember that Python is fun
 4) Fourth line
-5) A tip from a Python Program!
